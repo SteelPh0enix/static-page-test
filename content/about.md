@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-06-07T19:06:23+02:00
-draft: true
+draft: false
 ---
 
 ## Hey, i'm SteelPh0enix AKA Wojciech Olech
