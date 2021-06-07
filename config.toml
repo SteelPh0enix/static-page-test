@@ -1,4 +1,4 @@
-baseurl = "steelph0enix.github.io"
+baseurl = "https://steelph0enix.github.io/static-page-test"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
